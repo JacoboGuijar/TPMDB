@@ -9,7 +9,7 @@ The Public Movie Database (TPMDB) is a repository with the tools I used to creat
 
 Once you have changed this. you will need to run first the TPMDB_scraper.py, then TPMDB_creator to create the database once all the movie information has been downloaded. In case you don't want to run the web scraper, the movies.txt and movies_one_line.txt files contain all the movies from letterboxd up to 06/08/2021.
 
-Anyway, I think the code has all the explanations one may need to understand it.
+Anyway, I think the code has all the explanations one may need to understand it. Please, in case you use it remember to mention me.
 
 **About the database**
 This database contains information about:
