@@ -1,6 +1,6 @@
 import sqlite3
 import os
-import extract_info_from_txt_files
+import TPMDB_txt_scraper
 import random
 from operator import itemgetter
 
@@ -97,7 +97,7 @@ def write_in_database():
 	sample = os.listdir(MOVIES_TXT_FOLDER)
 	n = 0
 	for file in sample:
-		info = extract_info_from_txt_files.get_info_from_file(file)
+		info = TPMDB_txt_scraper.get_info_from_file(file)
 		
 		c.execute("""INSERT INTO movies VALUES (
 				  :title_url, :title, :year, :length, :tagline, :synopsis, 
