@@ -13,12 +13,19 @@ Anyway, I think the code has all the explanations one may need to understand it.
 
 #About the database
 This database contains information about:
+
 628.956 movies.
+
 1.076.473 actors and actresses.
+
 658.430 crew members (directors, writers, composers, producers, sound, make-up...).
+
 109.996 studios.
+
 181 languages.
+
 246 countries.
+
 19 different genres.
 
 Here you have a graph with all the average movie rating ordered by country:
