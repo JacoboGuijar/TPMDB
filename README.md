@@ -1,7 +1,10 @@
 # TPMDB
 The Public Movie Database (TPMDB) is a repository with the tools I used to create one of the biggest public movie databases on the internet. In this folder you wil find all the files you will need to recreate a project like this one. You will need to modify are the following variables:
+
 ·The folder where the txt files will be downloaded.
+
 ·The folder where the MOVIES_DOWNLOADED file is.
+
 ·The folder where the MOVIES_ONE_LINE is.
 
 Once you have changed this. you will need to run first the TPMDB_scraper.py, then TPMDB_creator to create the database once all the movie information has been downloaded. 
