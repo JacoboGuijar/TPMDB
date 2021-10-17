@@ -11,7 +11,7 @@ Once you have changed this. you will need to run first the TPMDB_scraper.py, the
 
 Anyway, I think the code has all the explanations one may need to understand it.
 
-##About the database
+**About the database**
 This database contains information about:
 
 628.956 movies.
