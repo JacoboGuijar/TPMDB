@@ -28,7 +28,7 @@ This database contains information about:
 
 19 different genres.
 
-You can find the database as well as all the txt files here: [https://archive.org/details/TPMDB](https://archive.org/details/TPMDB)
+You can find the database as well as all the txt files here: [https://archive.org/details/tpmdb_2021](https://archive.org/details/tpmdb_2021)
 
 Here you have a graph with all the average movie rating ordered by country:
 
